@@ -1,0 +1,6 @@
+{
+  "name": "Date With Me? Romantic Surabaya Road Trip",
+  "description": "An interactive romantic date invitation and Surabaya roadtrip planner with custom drawings, moving galaxy vortex, evasive No button, animated itinerary map, food picker, and RSVP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
